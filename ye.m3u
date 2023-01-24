@@ -1,2 +1,5 @@
-#EXTINF:-1, Pro Sport 2
+#EXTM3U
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:10, no desc
 http://penelope.newteam-iptv.xyz:80/tr1j7AaC/cS28RU7/89
